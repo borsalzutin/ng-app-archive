@@ -1,2 +1,14 @@
 # ng-app-archive
-HTML page archive and documentation
+
+静态页面发布集合
+
+本仓库用于发布静态页面，后续文件会根据任务继续追加。
+
+## 内容结构
+
+- 根目录：HTML 页面文件
+- README：用途与维护说明
+
+## 更新说明
+
+仓库会随发布任务继续更新，已发布页面以实际文件为准。
